@@ -1,0 +1,26 @@
+﻿  Config.cpp
+  GUI.cpp
+  GameData.cpp
+  Aimbot.cpp
+  AntiAim.cpp
+  Backtrack.cpp
+  Chams.cpp
+  EnginePrediction.cpp
+  Glow.cpp
+  Misc.cpp
+  SkinChanger.cpp
+  StreamProofESP.cpp
+  Triggerbot.cpp
+  Visuals.cpp
+  Helpers.cpp
+  Hooks.cpp
+  Netvars.cpp
+  Entity.cpp
+  GlobalVars.cpp
+  imguiCustom.cpp
+  Generating code
+  158 of 9249 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    65 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Osiris.vcxproj -> E:\R4nge\Release\R4NGE_ALPHA.dll
